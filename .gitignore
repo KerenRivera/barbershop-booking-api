@@ -1,0 +1,9 @@
+## Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+## Secrets
+appsettings.Development.json
