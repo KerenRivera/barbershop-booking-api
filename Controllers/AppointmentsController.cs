@@ -9,7 +9,7 @@ namespace Barbershop_booking.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    //[Authorize]
     public class AppointmentsController : ControllerBase
     {
         private readonly AppDbContext _context;
